@@ -2,10 +2,10 @@ body{
   background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rZJIMvhmliwmde8a6/videoblocks-sushi-on-wooden-background-delicious-breaded-maki-rolls_bay5bpzsg_thumbnail-full01.png");
 }
 h1{
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Exo 2', sans-serif;
   color: rgb(22, 243, 107);
   font-weight: bold;
-  float: center;
+  margin-left: 500px;
 }
 h2{
   color: brown;
@@ -24,6 +24,9 @@ button{
 .label {
   font-weight: bold;
   color: white;
+}
+label{
+  color:rgb(22, 243, 107)
 }
 .create-update-form {
   padding: 5px;

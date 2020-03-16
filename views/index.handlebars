@@ -1,24 +1,24 @@
-<h1>Sushi</h1>
+<h1>EAT~DAT~SUSHI</h1>
 
 <h2>Sushi Order!</h2>
 
-<ul>
+<p>
   {{#each typeSushi}}
     {{#unless devoured}}
        {{>sushi/sushi-block sushi=true}}
     {{/unless}}
   {{/each}}
-</ul>
+</p>
 
 <h2>Sushi Devoured!</h2>
 
-<ul>
+<p>
   {{#each typeSushi}}
      {{#if devoured}}
          {{>sushi/sushi-block sushi=false}}
      {{/if}}
   {{/each}}
-</ul>
+</p>
 
 <h2>Order Sushi</h2>
 <form class="create-form">
