@@ -1,0 +1,36 @@
+body{
+  background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rZJIMvhmliwmde8a6/videoblocks-sushi-on-wooden-background-delicious-breaded-maki-rolls_bay5bpzsg_thumbnail-full01.png");
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(22, 243, 107);
+  font-weight: bold;
+  float: center;
+}
+h2{
+  color: brown;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: transparent;
+  color: aqua;
+  font-weight: bold;
+}
+button{
+  background-color: black;
+  color: white;
+}
+.label {
+  font-weight: bold;
+  color: white;
+}
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
