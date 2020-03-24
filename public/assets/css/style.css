@@ -16,6 +16,7 @@ li {
   background: transparent;
   color: aqua;
   font-weight: bold;
+  list-style: none;
 }
 button{
   background-color: black;
