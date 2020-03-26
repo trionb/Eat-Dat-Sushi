@@ -3,5 +3,5 @@ Deployed link below:
 
 https://eat-dat-sushi.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/60153876/76805985-9a615400-67b6-11ea-9bf9-c19af4570527.png)
+<img width="1440" alt="Eat-Da-Sushi" src="https://user-images.githubusercontent.com/60153876/77691228-eb253980-6f7a-11ea-8ec8-3e8747ede79d.png">
 
