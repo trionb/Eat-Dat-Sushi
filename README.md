@@ -5,18 +5,18 @@ https://eat-dat-sushi.herokuapp.com/
 
 <img width="1440" alt="Eat-Da-Sushi" src="https://user-images.githubusercontent.com/60153876/77691228-eb253980-6f7a-11ea-8ec8-3e8747ede79d.png">
 
-#Sushi To Go
+Sushi To Go
 Description:
 In this fun interactive Eat Sushi app, The user can place an order their favorite sushi and then "devour" them after. 
 
-#Table Of Contents:
-##How To Install
-##Usage
-##Technology Used / Badges
-##Contributors
-##Tests
-##License
-##How To Install
+Table Of Contents:
+How To Install
+Usage
+Technology Used / Badges
+Contributors
+Tests
+License
+How To Install
 Access our application with our deployed link in your web browser:
 
 Usage
